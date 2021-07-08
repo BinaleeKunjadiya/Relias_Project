@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>InputList</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e061a65c-b44e-44e2-b3bf-4519f4dedf06</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>binalee_automation%40gmail.com http%3A%2F%2F34.71.66.95%2Fdashboard Invitation+sent+successfully%21 rgba%28153%2C+157%2C+162%2C+1%29</data>
+   <data>binalee_automation2%40gmail.com null This+email+was+already+added%21 null</data>
+   <data>binalee_automation3%40gmail.com null *Email+must+be+a+valid+email+address null</data>
+   <data>binalee_automation4%40gmail.com null null null</data>
+   <data>biNAlee_automation5%40gmail.com null null null</data>
+   <data>binaleegmail.com null null null</data>
+   <data>null null null null</data>
+   <data>null null null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>email</name>
+      <size>8</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>url</name>
+      <size>8</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>error message</name>
+      <size>8</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>disable color</name>
+      <size>8</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Sending Request Counts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb3a9d57-49cd-48e3-a4bf-de7b2db7f83d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Invite_Recruiter_Close</name>
+   <tag></tag>
+   <elementGuidId>1c138f9e-a759-43bb-aeaf-ac8fb1571004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p-dynamicdialog/div/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-dialog-header-close-icon.pi.pi-times.ng-tns-c13-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dialog-header-close-icon pi pi-times ng-tns-c13-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;p-overflow-hidden&quot;]/p-dynamicdialog[@class=&quot;ng-tns-c13-1 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c13-1 p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c13-1 invite-recruiter_dialog p-dialog p-dynamic-dialog p-component ng-star-inserted&quot;]/div[@class=&quot;p-dialog-header ng-tns-c13-1 ng-star-inserted&quot;]/div[@class=&quot;p-dialog-header-icons ng-tns-c13-1&quot;]/button[@class=&quot;ng-tns-c13-1 p-dialog-header-icon p-dialog-header-maximize p-link ng-star-inserted&quot;]/span[@class=&quot;p-dialog-header-close-icon pi pi-times ng-tns-c13-1&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-dynamicdialog/div/div/div/div/button/span</value>
+   </webElementXpaths>
+</WebElementEntity>
